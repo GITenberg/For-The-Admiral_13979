@@ -1,0 +1,27 @@
+_repo: For-The-Admiral_13979
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marx, W. J. (William James)
+    alias: Marx, William James
+    gutenberg_agent_id: '5310'
+    url: http://www.gutenberg.org/2009/agents/5310
+description: ''
+gutenberg_issued: '2004-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Coligny, Gaspard de, seigneur de Châtillon, 1519-1572 -- Juvenile fiction'
+- !lcsh 'France -- History -- Wars of the Huguenots, 1562-1598 -- Juvenile fiction'
+- !lcsh 'Admirals -- Juvenile fiction'
+title: For The Admiral
+url: http://www.gutenberg.org/ebooks/13979
