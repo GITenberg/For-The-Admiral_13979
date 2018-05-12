@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5310'
     url: http://www.gutenberg.org/2009/agents/5310
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13979#For-The-Admiral
 gutenberg_issued: '2004-11-08'
 gutenberg_type: Text
 identifiers:
